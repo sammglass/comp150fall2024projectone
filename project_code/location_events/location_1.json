@@ -1,3 +1,7 @@
+# Assuing we go with the visual novel idea, then each of these location files will be an event with Mothman/Bigfoot
+# looking at the existing text in the file, I am getting some ideas for how the flow of the game will go
+# probably, there will be three events with both Mothman/bigfoot. Depending on how many events that the player passes, that will determine the ending of the game
+
 [{
   "primary_attribute": "Intelligence",
   "secondary_attribute": "Strength",
