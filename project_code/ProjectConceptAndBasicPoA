@@ -1,0 +1,20 @@
+"""
+As of 12 Oct 2024:
+Okay, the idea is not so much "visual novel" as it is, as the project states, a "choose your adventure" in a text based format. That said, this game is basically an otome,
+or a "story based romance game".
+
+The "party" consists of only the player character. The goal of the game is to get a "good ending" with one of the two possible romanceable NPCS: Mothman and Bigfoot
+(maybe Slenderman? might be more interesting...). Based on the "random event" choices, various stats are built or degraded, which then influences the pass/fail outcomes
+of specific NPC interaction events. As this is a very basic project, at this moment I (Cat) think it makes sense to have 3 "random" events, and then 3 events for both Mothman
+and the other NPC (9 total eevnts). As for the ending of the game, I am not totally sure how we will go about the actual implementation, however my idea is that an ending is
+decided based on how many events you pass/fail for both Mothman and the other NPC.
+
+Reach goals for project: 
+1. random events "lock in" player to either a "Mothman path" or "Slenderman path", and from there you either get a "good" or "bad" ending for whichever path the player
+locks into.
+2. If Reach Goal 1 is accomplished, add an additional "neutral" ending to both the Mothman and Slenderman paths.
+3. An alternate to to Reach Goal 2 is to simply add a third romanceable NPC and its associated path with corresponding good/bad endings.
+4. Ultra Reach: add third romanceable NPC option, have the ability to "lock in" to one of the three paths, and have one of three achievable endings (good, bad, neutral)
+for each of the three paths.
+
+"""
